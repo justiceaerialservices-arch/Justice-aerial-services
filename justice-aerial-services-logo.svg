@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650">
+<rect width="1200" height="650" fill="#090b0a"/>
+<g fill="none" stroke="#aaa76d" stroke-width="12" stroke-linejoin="round">
+  <path d="M80 300 L270 105 L390 225 L535 65 L690 235 L815 125 L1120 300"/>
+  <path d="M165 300 L270 205 L350 280 L535 115 L650 285 L815 195 L1010 300"/>
+</g>
+<g fill="#e9e8e1" stroke="#090b0a" stroke-width="6">
+  <path d="M480 190h240l55 34-55 34H480l-55-34z"/>
+  <rect x="535" y="160" width="130" height="60" rx="16"/>
+  <path d="M450 210l-115-45-18 18 75 65z"/>
+  <path d="M750 210l115-45 18 18-75 65z"/>
+  <path d="M545 258l-70 90 20 8 75-70z"/>
+  <path d="M655 258l70 90-20 8-75-70z"/>
+  <circle cx="600" cy="222" r="20" fill="#aaa76d"/>
+</g>
+<text x="600" y="420" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="900" letter-spacing="2" fill="#f4f3ee">JUSTICE AERIAL</text>
+<text x="600" y="505" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="800" letter-spacing="18" fill="#aaa76d">SERVICES</text>
+<text x="600" y="565" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="7" fill="#d3d2ca">DRONE PHOTOGRAPHY  •  THERMAL IMAGING  •  LAND &amp; REAL ESTATE</text>
+</svg>
